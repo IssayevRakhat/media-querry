@@ -1,0 +1,26 @@
+.logDiv{
+	left:865px;
+}
+@media (max-width: 600px){
+.backgroundImg{
+display: none;
+}
+.logDiv{
+	left: 40px;
+	width:400px;
+
+}
+body{
+	min-width: 600px;
+	max-width: 650px;
+}
+button{
+	width: 400px;
+}
+#rectEmail{
+	width: 400px;
+}
+#rectPassword{
+	width: 400px;
+}
+}
