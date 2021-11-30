@@ -1,0 +1,94 @@
+.signDiv{
+	left:865px;
+	width: 431px;
+}
+.signForm{
+	width:431px;
+}
+#btn{
+	width: 431px;
+}
+#imgEmail{
+top: -468px;
+left: 0px;
+}
+#imgUser{
+top: -358px;
+left: -14px
+}
+#imgLock{
+top: -248px;
+left: -30px;
+}
+#imgLock2{
+top: -138px;
+left: -46px
+}
+#rectEmail{
+	width: 100%;
+}
+#rectPassword{
+	width: 100%;
+}
+#rectUsername{
+	width: 100%;
+}
+#rectConfirmPassword{
+	width: 100%;
+}
+#usercheck{
+left:870px;
+}
+#passcheck{
+left:870px;
+}
+#conusercheck{
+left:870px;
+}
+
+@media (max-width:480px){
+.backgroundImg{
+display: none;
+}
+.signDiv{
+	left: 30px;
+	width:350px;
+
+}
+.signForm{
+	width: 350px;
+}
+body{
+	min-width: 480px;
+	max-width: 480px;
+}
+#btn{
+	width: 350px;
+}
+#imgEmail{
+top: -325px;
+left: -10px;
+}
+#imgUser{
+top: -205px;
+left: -24px
+}
+#imgLock{
+top: -325px;
+left: -10px;
+}
+#imgLock2{
+top: -205px;
+left: -24px
+}
+#usercheck{
+left:30px;
+}
+#passcheck{
+left:30px;
+}
+#conusercheck{
+left:30px;
+}
+
+}
