@@ -1,0 +1,74 @@
+.logDiv{
+	left:865px;
+	width: 431px;
+}
+.logForm{
+	width:431px;
+}
+#btn{
+	width: 431px;
+}
+#imgEmail{
+top: -306px;
+left: 0px;
+}
+#imgLock{
+top: -186px;
+left: -14px
+}
+#rectEmail{
+width: 100%;
+}
+#rectPassword{
+	widows: 100%;
+}
+#smicons{
+	top:640px;
+	left: 130px;
+	
+}
+#apple{
+margin-left: 20px;
+}
+#google{
+margin-left: 20px;
+}
+@media (max-width: 480px){
+.backgroundImg{
+display: none;
+}
+.logDiv{
+	left: 30px;
+	width:350px;
+
+}
+.logForm{
+	width: 350px;
+}
+body{
+	min-width: 480px;
+	max-width: 480px;
+}
+#btn{
+	width: 350px;
+}
+#imgEmail{
+top: -305px;
+left: -0px;
+}
+#imgLock{
+top: -185px;
+left: -14px
+}
+#smicons{
+	top:640px;
+	left: 105px;
+	
+}
+#apple{
+margin-left: 20px;
+}
+#google{
+margin-left: 20px;
+}
+}
