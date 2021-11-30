@@ -1,0 +1,13 @@
+@media (max-width: 480px){
+.backgroundImg{
+display: none;
+}
+.logDiv{
+	
+
+}
+body{
+	width: 480px;
+}
+
+}

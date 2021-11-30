@@ -1,0 +1,13 @@
+@media (max-width: 480px){
+.backgroundImg{
+display: none;
+}
+.signDiv{
+	
+left:20px;
+}
+body{
+	width: 480px;
+}
+
+}
